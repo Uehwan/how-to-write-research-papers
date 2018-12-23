@@ -5,6 +5,7 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
 ## Key Things to Keep in Mind
 
 ### Write Now!
+![Writing_Paradigm](writing_paradigm.png)
 
 ### Top Down
 - Tell a story
