@@ -59,10 +59,10 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
 - Describe the work not the paper
 - Present concrete results rather than abstractive desription
 ```
-1. General problem space / motivation
+1. General problem space/motivation
 2. Approach taken
-3. Key findings / results
-4. Why the findings / results matter
+3. Key findings/results
+4. Why the findings/results matter
 ```
 
 ### Introduction
@@ -82,8 +82,8 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
 or ...
 ```
 1. (Context) State of the world: the problem area & why it is important
-2. (Need) Narrow down: gap between actual and desired situations (the big BUT)
-3. (Previous Works) Approaches taken in previous works and limitations
+2. (Problem) Narrow down: the desired goal which is not achieved
+3. (Previous Works) Approaches taken in previous works and limitations (gap between actual and desired situations)
 4. (Task and Object) To overcome the above-mentioned limitations, we ...
 5. (Outcome) The key results are ...
 6. (Contribution) In summary, the contributions of this paper are ...
@@ -91,10 +91,13 @@ or ...
 ```
 
 ### Materials and Methods
+- Sufficient detail for reproducibility
 
 ### Results and Discussion
+- Interprete the results
 
 ### Conclusion
+- Present the outcome at a higer level of abstraction
 
 ## Userfule Tools
 - Thesaurus: [Thesaurus](https://www.thesaurus.com/), [Onelook](https://www.onelook.com/thesaurus/)
