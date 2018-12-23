@@ -1,6 +1,6 @@
 # How to write research papers
 
-One Paragraph of project description goes here
+I'm a Ph. D student working on robotics and deep learning. Like most researchers, I also need to publish research papers. Preparing research papers takes much effort and time. Sometimes it even gives pains. However, I realized that there are a bunch of materials on the web I can benefit from and started summarizing those materials. This document might contain disputable statements since it is for my personal retrieval. I welcome comments and collaboration. Please send me e-mails or pull requests.
 
 ## Getting Started
 
