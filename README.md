@@ -1,10 +1,17 @@
-# How to write research papers
+# How to Write Research Papers
 
 I'm a Ph. D student working on robotics and deep learning. Like most researchers, I also need to publish research papers. Preparing research papers takes much effort and time. Sometimes it even gives pains. However, I realized that there are a bunch of materials on the web I can benefit from and started summarizing those materials. This document might contain disputable statements since it is for my personal retrieval. I welcome comments and collaboration. Please send me e-mails or pull requests.
 
-## Getting Started
+## Key Facts to Remember
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- 
+
+## What to Write for each Section
+
+### Introduction
+
+#### Useful Templates for Introduction
+
 
 ### Prerequisites
 
