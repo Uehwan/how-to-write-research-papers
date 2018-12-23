@@ -61,17 +61,33 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
 ```
 1. General problem space / motivation
 2. Approach taken
-3. Key findings
-4. Why the findings matter
+3. Key findings / results
+4. Why the findings / results matter
 ```
 
 ### Introduction
+- Motivation for the work
+- Prepare readers for the structure of the paper
+- Start broad and progrssively narrow down to the issue (problem)
 ```
-1. (Context) State of the world
-2. (Need) The big BUT
-3. (Task) Therefore, we did
-4. The key findings are
-5. The contributions of this paper are
+1. (Context) State of the world: the problem area & why it is important
+2. (Need) Narrow down: gap between actual and desired situations (the big BUT)
+3. (Task and Object) To achieve (object), we study/develop/investigate/design/evaluate/implement/assess ...
+4. (Outcome) The key results are ...
+5. (Contribution) In summary, the contributions of this paper are ...
+6. (Structure) The rest of this papre is structured/organized as follows.
+```
+=> Need a section for "related work"
+
+or ...
+```
+1. (Context) State of the world: the problem area & why it is important
+2. (Need) Narrow down: gap between actual and desired situations (the big BUT)
+3. (Previous Works) Approaches taken in previous works and limitations
+4. (Task and Object) To overcome the above-mentioned limitations, we ...
+5. (Outcome) The key results are ...
+6. (Contribution) In summary, the contributions of this paper are ...
+7. (Structure) The rest of this paper is structured/organized as follows.
 ```
 
 ### Materials and Methods
