@@ -5,12 +5,20 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
 ## Key Things to Keep in Mind
 
 ### Write Now!
-<img src="writing_paradigm.png" width="250">
+<img src="writing_paradigm.png" width="500">
+- Writing first forces us to be clear & focused
+- It makes what we don't understand concrete
 
 ### Top Down
 - Tell a story
   - Not what you did
   - Rather, new ideas or insights
+  - Basic flow
+    - Here is a problem
+    - It's interesting and unsolved
+    - Here is my idea
+    - My idea works
+    - How my idea differs from others
 - A lead sentence to set context for a paragraph
 
 ### Reader Centered
@@ -18,8 +26,8 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
 - Visualize (figures) & summarize (tables)
 - Present enough context & information
 - Don't let readers work hard
-  - be consise and clear
-  - not too many equations or graphs or paragraphs
+  - Be consise and clear
+  - Not too many equations or graphs or paragraphs
 - Check what readers might (want/not want) and (know/not know)
 
 ### Take Time
