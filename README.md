@@ -52,10 +52,27 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
 ## How to Write Actually
 
 ### Title
+- Catchy buy avoid being cute
+- Should represent the key idea and contributions
 
 ### Abstract
+- Describe the work not the paper
+- Present concrete results rather than abstractive desription
+```
+1. General problem space / motivation
+2. Approach taken
+3. Key findings
+4. Why the findings matter
+```
 
 ### Introduction
+```
+1. (Context) State of the world
+2. (Need) The big BUT
+3. (Task) Therefore, we did
+4. The key findings are
+5. The contributions of this paper are
+```
 
 ### Materials and Methods
 
@@ -66,10 +83,6 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
 ## Userfule Tools
 - Thesaurus: [Thesaurus](https://www.thesaurus.com/), [Onelook](https://www.onelook.com/thesaurus/)
 - Grammar & Style: [Grammarly](https://app.grammarly.com/), [HemingwayApp](http://www.hemingwayapp.com/)
-
-```
-Give the example
-```
 
 ## References
 
