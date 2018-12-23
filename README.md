@@ -6,6 +6,7 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
 
 ### Write Now!
 <img src="writing_paradigm.png" width="500">
+
 - "Writing first" forces you to be clear & focused
 - It helps you develop the idea
 - It makes what you don't understand concrete
